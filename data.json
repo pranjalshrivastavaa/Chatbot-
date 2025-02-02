@@ -1,0 +1,8 @@
+{
+    "greetings": ["hello", "hi", "hey", "howdy", "hola", "good morning", "good evening", "good afternoon"],
+    "responses": ["Hello!", "Hi there!", "Hey!", "Greetings!", "Nice to see you!", "Good to have you here!"],
+    "farewell": ["bye", "goodbye", "see you", "take care", "catch you later"],
+    "farewell_responses": ["Goodbye!", "See you soon!", "Take care!", "Have a great day!", "Bye!"],
+    "small_talk": ["how are you?", "what's up?", "how's it going?", "how have you been?"],
+    "small_talk_responses": ["I'm just a bot, but I'm doing great!", "I'm good, thanks for asking!", "Just here to chat with you!"]
+}
